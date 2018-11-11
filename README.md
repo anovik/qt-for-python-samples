@@ -16,6 +16,12 @@
 
 Some samples (hello.py and version.py) are taken mostly from Qt docs. 
 
+Another ones are written from the scratch:
+
+- lengthConverter.py 
+
+- pieChartCustomizer.py
+
 # License
 
 License is MIT.
