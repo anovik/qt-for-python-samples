@@ -20,9 +20,13 @@ Another ones are written from the scratch:
 
 - lengthConverter.py 
 
+![Alt length converter](/images/lengthConverter.png?raw=true "length converter")
+
 This sample is able to do simple conversion meters, cm and feet. 
 
 - rectangle.py
+
+![Alt rectangle](/images/rectangle.png?raw=true "rectangle")
 
 It calculates perimeter and square of rectangle if you enter its sides.
 
