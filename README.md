@@ -20,7 +20,15 @@ Another ones are written from the scratch:
 
 - lengthConverter.py 
 
+This sample is able to do simple conversion meters, cm and feet. 
+
+- rectangle.py
+
+It calculates perimeter and square of rectangle if you enter its sides.
+
 - pieChartCustomizer.py
+
+This sample is intended for simple customization of matplotlib chart.
 
 # License
 
